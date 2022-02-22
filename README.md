@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/8c/19/8b/8c198b4daf10ee93a868183f9051dc47.gif" height="75px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://lh3.googleusercontent.com/_Om6NRktQPi4oFnPE29vj7LYyLvbr0ieEJehIc6lTFh8nO1tPxXlYtqrLO6rdBIERLzycq6Q1VoRLelMGNvT7JGxy3gbNho8mTutyDQ=s2500" height="75px"/></a>
 
 <h1 align="center">Hi, I'm Anuja</h1>
 
