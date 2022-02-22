@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/52/d9/b3/52d9b35181578642c823f63a457fe99b.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://external-preview.redd.it/Hq2vo1uWSay2XF8-3o4xO5Ims6atSiM1EiE6LCiAbIA.png?width=640&crop=smart&format=pjpg&auto=webp&s=516482145324664d258a741f90801f87671d4da8" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Anuja</h1>
 
@@ -78,6 +78,3 @@
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>-->
 <a href="https://github.com/anuja-1313?tab=followers"><img src="https://img.shields.io/github/followers/anuja-1313?label=Followers&style=social" alt="GitHub Badge"></a>
-<br>
-<br>
-<a href="#"><img width="100%" height="auto" src="https://pbs.twimg.com/media/DeirA72XUAAII7B.jpg" height="175px"/></a>
