@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Anuja</h1>
 
-## 🙋 About Me
+## (✿◠‿◠) About Me
 
 - 🔭 I’m currently working on my **programming skills**
 
@@ -74,9 +74,9 @@
 </p>
 
 ## ❤ Views and Followers
-<!--<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a>-->
+<a href="https://github.com/anuja-1313/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=anuja-1313">
+</a>
 <a href="https://github.com/anuja-1313?tab=followers"><img src="https://img.shields.io/github/followers/anuja-1313?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
 <br>
