@@ -2,9 +2,11 @@
 
 <h1 align="center">Hi, I'm Anuja</h1>
 
-## (✿◠‿◠) About Me
+## 👩‍🚀 About Me
 
-- 🔭 I’m currently working on my **programming skills**
+- 🎯 I’m currently working on my **programming skills**
+
+- 🦄 Dipping my toes in **Data Science**
 
 - 🌱 My goal for 2022 is **to learn something new everyday**
 
