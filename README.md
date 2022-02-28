@@ -6,7 +6,7 @@
 
 - 🎯 I’m currently working on my **programming skills**
 
-- 🦄 Dipping my toes in **Data Science**
+<!-- - 🦄 Dipping my toes in **Data Science** -->
 
 - 🌱 My goal for 2022 is **to learn something new everyday**
 
