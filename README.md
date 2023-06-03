@@ -8,7 +8,7 @@
 
 <!-- - 🦄 Dipping my toes in **Data Science** -->
 
-- 🌱 My goal for 2022 is **to learn something new everyday**
+- 🌱 My goal is **to be a much better version of myself**
 
 - 📫 How to reach me **anujajadhav0704@gmail.com**
 
@@ -19,8 +19,8 @@
 <p align="left"> 
     <!-- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> -->
-    <a style="padding-right:12px; "href="" target="_blank"> <img src="https://freepikpsd.com/file/2019/10/c-programming-logo-png-2-Png-Transparent-Images.png" width="45" height="45"/> </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
+    <a style="padding-right:12px; "href="" target="_blank"> <img src="https://freepikpsd.com/file/2019/10/c-programming-logo-png-2-Png-Transparent-Images.png" width="45" height="45"/> </a> -->
     <a href="" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" width="45" height="45"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
