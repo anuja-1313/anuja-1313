@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **anujajadhav0704@gmail.com**
 
-<! -- - ⚡ I am an avid lover of **books** (both fiction and non-fiction) -->
+<!-- - ⚡ I am an avid lover of **books** (both fiction and non-fiction) -->
 
 ## 🚀 Languages and Tools:
 
