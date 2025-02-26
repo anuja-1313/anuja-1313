@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img width="40%" height="30%" src="https://pa1.narvii.com/7815/47d66f45b4a9ddbf8a18bb7e7d274a83d4114b1ar1-900-300_hq.gif"/>
+    <img width="50%" height="30%" src="https://pa1.narvii.com/7815/47d66f45b4a9ddbf8a18bb7e7d274a83d4114b1ar1-900-300_hq.gif"/>
   </a>
 </div>
 
@@ -14,10 +14,6 @@
 **🚀 About me**
 
 💼 **Java Back-End Developer** | Upskilling & actively looking for opportunities.
-
-🔍 Debugging Formula: 10% fixing, 90% wondering why it was broken.
-
-💡 Mastering the art of Google-fu & Stack Overflow sorcery.
 
 📫 Reach me at: anujajadhav0704@gmail.com
 
