@@ -12,12 +12,11 @@
 
 💼 **Java Back-End Developer** | Upskilling & actively seeking new opportunities.  
 🔧 Motivated and passionate programmer who enjoys tackling challenges and writing clean, efficient code.  
-💻 My core tech stack revolves around **Java**, **Spring Boot**, **Microservices**, **Kafka**, and **MySQL**.
-
+💻 My core tech stack revolves around **Java**, **Spring Boot**, **Microservices**, **Kafka**, and **MySQL**. <br/>
 📫 Reach me at: **anujajadhav0704@gmail.com**  
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/anujajadhav1)
+<!-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/anujajadhav1) -->
 
-<br />
+<br/>
 
 <!-- Tech Stack -->
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -31,7 +30,15 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<br />
+<!-- Connect with me -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/anujajadhav1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anujajadhav1" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/artemis1313/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/artemis1313/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/anujaj1313/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anujaj1313/" height="30" width="40" /></a>
+</p>
+
+<br/>
 
 ### ⚙️ GitHub Analytics
 <p align="center">
