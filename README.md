@@ -8,7 +8,7 @@
 
 <br />
 
-## 🚀 About Me
+**🚀 About Me:**
 
 💼 **Java Back-End Developer** | Upskilling & actively seeking new opportunities.  
 🔧 Motivated and passionate programmer who enjoys tackling challenges and writing clean, efficient code.  
